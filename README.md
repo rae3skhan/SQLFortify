@@ -1,6 +1,4 @@
-Certainly! Below is a basic template for a GitHub README documentation for your SQL Injection testing tool. Feel free to customize it further based on additional details or features of your tool.
 
-```markdown
 # SQL Injection Testing Tool
 
 ## Overview
