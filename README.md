@@ -61,6 +61,4 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
-Replace `sql_injection_tester.py` with the actual name of your Python script. Additionally, consider adding sections for advanced usage, troubleshooting, or any other relevant information about your tool.
